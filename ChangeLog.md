@@ -55,6 +55,8 @@
 
   * Add `allowIssueReporting` assessment option, default false (Matt West).
 
+  * Add `to_json()` and `from_json()` to `prairielearn.py` to help JSON serialize standard types (Tim Bretl).
+
   * Split installing documentation into separate method sections (Matt West).
 
   * Remove unused dead code (`/lib/db.js`, `question-servers/shortAnswer.js`,
