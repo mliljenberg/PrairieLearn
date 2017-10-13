@@ -63,6 +63,8 @@
 
   * Add index on `grading_jobs.date` to speed up statistics (Matt West).
 
+  * Add `partialCredit` option for v2 questions (Matt West).
+
   * Split installing documentation into separate method sections (Matt West).
 
   * Remove unused dead code (`/lib/db.js`, `question-servers/shortAnswer.js`,
